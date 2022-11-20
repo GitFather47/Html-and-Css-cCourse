@@ -1,0 +1,21 @@
+.shit1{
+    width: 250px;
+border-radius: 15px;
+display:inline-block;
+vertical-align: top ;
+}
+.shit2{
+    width: 250px;
+    border:square;
+    display:inline-block;
+    vertical-align: top;
+}
+.shit3{
+    width: 150px;
+    height:150px;
+    object-position: center;
+    object-fit: cover;
+    border-radius:250px;
+    display: inline-block;
+    
+}

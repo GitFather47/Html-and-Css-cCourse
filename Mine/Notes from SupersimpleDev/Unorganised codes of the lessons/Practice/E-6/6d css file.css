@@ -1,0 +1,18 @@
+
+p{
+    font-family: Montserrat;
+    text-align: center;
+    font-size: 50px;
+
+}
+.m{
+    font-weight: bold;
+}
+.out{
+    
+    cursor: pointer;
+
+}
+.out:hover{
+    text-decoration: underline;
+}
